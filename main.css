@@ -9,3 +9,7 @@ body {
     font-family:'SF Mono','Osaka Mono','monospace';
     font-size: xx-large;
 }
+
+.h1 img {
+    width: 120px;
+}
