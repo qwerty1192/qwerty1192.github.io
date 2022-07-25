@@ -7,9 +7,10 @@ body {
     color: #734b1a;
     background-color:#FFD8A7;
     font-family:'SF Mono','Osaka Mono','monospace';
-    font-size: xx-large;
+    font: size 90px;;
 }
 
 .h1 img {
-    width: 120px;
+    display: inline-block;
+    width: 100px;
 }
