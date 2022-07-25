@@ -1,24 +1,21 @@
 body {
+    color: #734b1a;
     line-height:1.3;
     background-color:#FFD8A7;
 }
 
-.h1 {
-    color: #734b1a;
-    background-color:#FFD8A7;
+.title {
     font-family:'Courier New','Andale Mono','Osaka Mono','monospace';
     font-size: 30px;
-    vertical-align: middle;
 }
 
-.h1 img {
+.title img {
     display: inline-block;
     width: 80px;
     vertical-align: middle;
 }
 
 .hello {
-    color: #734b1a;
     font-family:'Andale Mono','Courier New','Osaka Mono','monospace';
     font-size: 20px;
 }
