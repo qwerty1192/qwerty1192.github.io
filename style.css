@@ -17,8 +17,8 @@ body {
 }
 
 .hello {
-    font-family:'Andale Mono','Courier New','Osaka Mono','monospace';
-    font-size: 30px;
+    font-family:'Courier New','Andale Mono','Osaka Mono','monospace';
+    font-size: 32px;
     font-weight: bolder;
 }
 
