@@ -23,12 +23,7 @@ body {
     font-size: 20px;
 }
 
-.twitter img{
-    display: inline-block;
-    width: 48px;
-}
-
-.github img{
+.icons img{
     display: inline-block;
     width: 48px;
 }
