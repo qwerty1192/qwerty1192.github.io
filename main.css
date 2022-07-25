@@ -7,12 +7,28 @@ body {
     color: #734b1a;
     background-color:#FFD8A7;
     font-family:'Courier New','Andale Mono','Osaka Mono','monospace';
-    font-size: xx-large;
+    font-size: 30px;
     vertical-align: middle;
 }
 
 .h1 img {
     display: inline-block;
-    width: 100px;
+    width: 80px;
     vertical-align: middle;
+}
+
+.hello {
+    color: #734b1a;
+    font-family:'Andale Mono','Courier New','Osaka Mono','monospace';
+    font-size: 20px;
+}
+
+.twitter img{
+    display: inline-block;
+    width: 48px;
+}
+
+.github img{
+    display: inline-block;
+    width: 48px;
 }
