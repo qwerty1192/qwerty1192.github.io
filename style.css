@@ -3,12 +3,10 @@ body {
     line-height:1.3;
     background-color:#FFD8A7;
     text-align: center;
+    font-family:'Courier New','Andale Mono','Osaka Mono','monospace';
 }
 
-.title {
-    font-family:'Courier New','Andale Mono','Osaka Mono','monospace';
-    font-size: 32px;
-}
+.title {font-size: 32px;}
 
 .title img {
     display: inline-block;
@@ -17,7 +15,6 @@ body {
 }
 
 .hello {
-    font-family:'Courier New','Andale Mono','Osaka Mono','monospace';
     font-size: 32px;
     font-weight: bolder;
 }
