@@ -26,8 +26,8 @@ body {
         blue,
         purple);
         -webkit-background-clip: text;
-    background-size: 1200%; 
-    animation: 3s linear 0s infinite alternate gaming;
+    background-size: 600%; 
+    animation: 1s linear 0s infinite gaming;
 }
 
 @keyframes gaming { 
